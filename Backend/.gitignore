@@ -1,4 +1,4 @@
-**/node_modules
+/node_modules
 
 
 
@@ -10,3 +10,5 @@
 
 # 3. Commit the changes.
 # git commit -am "removed node_modules folder"
+
+# https://timmousk.com/blog/git-ignore-node-modules/    reference
